@@ -1,6 +1,6 @@
 /*
- * AHT10 : belum berhasil (sepertinya solder kurang bagus)
- * LCD : belum berhasil (belum tau)
+ * AHT10 : berhasil
+ * LCD : berhasil
  * Relay : sudah bisa bunyi, belum di tes tegangan
  * Humidity 1 : sudah work, perlu recalibrate
  * Humidity 2 : sudah work, perlu di calibrate
